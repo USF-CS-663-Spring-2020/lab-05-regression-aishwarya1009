@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**: Aishwarya Parthasarathy  
+**USF email address**:  aparthasarathy2@dons.usfca.edu
